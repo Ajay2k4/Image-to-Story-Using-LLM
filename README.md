@@ -14,7 +14,6 @@ AI tool that generates an Audio short story based on the context of an uploaded 
 ![Demo 1: Couple Test Image Output](img-audio/CoupleOutput.jpg)
 
 
-You can listen respective audio file of this test demo images on respective `img-audio` folder 
 
 
 ## 📈System Design
